@@ -14,7 +14,8 @@
   {
   "categories": [
   "utilities",
-],
+ ],
+  }
   "locales": {
     "en-US": {
       "name": "KaiOS App",
@@ -23,8 +24,7 @@
     }
   },
   "default_locale": "en-US"
-}
-{
+ {
   "cursor": true
-}
+ }
 }
