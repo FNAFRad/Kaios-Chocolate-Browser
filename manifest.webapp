@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "name": "Chocolate Browser",
+  "description": "A Open-Source Browser that cares about your privacy and you and not money",
+  "type": "web",
+  "launch_path": "/Kaios-Chocolate-Browser/index.html",
+  "icons": {
+    "56": "/Kaios-Chocolate-Browser/img/Chocolate_Browser_56.png",
+    "112": "/Kaios-Chocolate-Browser/img/Chocolate_Browser_112.png"
+  },
+  "developer": {
+    "name": "FNAFRad Studios",
+  },
+  {
+  "categories": [
+  "utilities",
+],
+  "locales": {
+    "en-US": {
+      "name": "KaiOS App",
+      "subtitle": "A simple but useful and private Browser",
+      "description": "A Open-Source Browser that cares about your privacy and you and not money"
+    }
+  },
+  "default_locale": "en-US"
+}
+{
+  "cursor": true
+}
+}
